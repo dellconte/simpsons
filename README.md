@@ -1,7 +1,7 @@
 # Os Simpsons
 
   <p>
-    <img alt="DOs Simpsons" src="https://github.com/dellconte/deadpoll/blob/main/assets/Screenshot_01.png" />
+    <img alt="DOs Simpsons" src="https://github.com/dellconte/assets/Screenshot_01.png" />
 </p>
   <h2>Tecnologias</h2>
   <ul class="technologies">
